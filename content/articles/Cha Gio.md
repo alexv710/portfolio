@@ -1,0 +1,60 @@
+---
+author:
+  name: Alex
+date: 2023-12-31
+layout: article
+---
+
+# Cha Gio (Vietnamese Fried Spring Rolls) Recipe
+
+## Ingredients
+
+- **Ground pork:** 500g
+- **Carrots:** 2 medium, grated or finely chopped
+- **Glass noodles:** 50g, soaked in hot water and chopped
+- **Wood ear mushrooms:** 10g, soaked in hot water and chopped
+- **Onion:** 1 medium, finely chopped
+- **Garlic:** 3 cloves, minced
+- **Eggs:** 2 (one for the filling, one beaten for sealing rolls)
+- **Fish sauce:** 2 tablespoons
+- **Black pepper:** 1 teaspoon
+- **Sugar:** 1 teaspoon
+- **Spring roll wrappers:** (rice paper or wheat-based wrappers)
+- **Vegetable oil:** for frying
+
+## Instructions
+
+### 1. Prepare Filling
+In a large bowl, combine ground pork, carrots, glass noodles, wood ear mushrooms, onion, garlic, one egg, fish sauce, black pepper, and sugar. Mix well.
+
+### 2. Wrap Rolls
+Place a spring roll wrapper on a clean, flat surface. Take a small amount of the filling and place it near one corner of the wrapper. Roll the wrapper over the filling, fold in the sides, and continue rolling. Seal the edge with a bit of beaten egg.
+
+### 3. Fry the Rolls
+Heat a good amount of oil in a frying pan over medium heat. Once the oil is hot, fry the spring rolls in batches, turning occasionally, until they are golden brown and crispy, about 5-7 minutes per batch.
+
+### 4. Drain
+Remove the rolls and drain on paper towels to remove excess oil.
+
+### 5. Serve
+Serve hot with nuoc cham (Vietnamese dipping sauce) and a side of lettuce, mint, and cilantro leaves.
+
+## Nuoc Cham (Dipping Sauce)
+
+- **Fish sauce:** 3 tablespoons
+- **Sugar:** 2 tablespoons
+- **Lime juice:** 2 tablespoons
+- **Garlic clove:** 1, minced
+- **Water:** ½ cup
+- *Optional:* Chopped chili for spice
+
+Combine all the ingredients in a bowl and adjust to taste.
+
+## Tips
+
+- Ensure the oil is hot enough before frying for a crispy texture.
+- Avoid overcrowding the pan when frying.
+- If using rice paper wrappers, dampen them slightly to make them pliable.
+
+Enjoy your culinary adventure into Vietnamese cuisine! 🍴🌯🇻🇳🍤
+
