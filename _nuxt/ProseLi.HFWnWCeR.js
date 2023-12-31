@@ -1,1 +1,0 @@
-import{k as r,b as t,c as a,a3 as c}from"./entry.vPj-GTR-.js";const n={};function o(e,s){return t(),a("li",null,[c(e.$slots,"default",{},void 0,!0)])}const l=r(n,[["render",o],["__scopeId","data-v-65ab81cd"]]);export{l as default};
