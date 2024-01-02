@@ -1,1 +1,0 @@
-import{k as t,b as n,c,a3 as o}from"./entry.SVIGDTAX.js";const a={};function r(e,s){return n(),c("thead",null,[o(e.$slots,"default",{},void 0,!0)])}const d=t(a,[["render",r],["__scopeId","data-v-5f042c43"]]);export{d as default};
